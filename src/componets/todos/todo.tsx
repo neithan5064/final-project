@@ -1,5 +1,6 @@
 import { todoProps} from "@/types";
-import ChangeTodo from "./changeTodo";
+import ChangeTodo from "./ChangeTodo";
+
 
 
 const Todo = ({ todo }: { todo: todoProps }) => {

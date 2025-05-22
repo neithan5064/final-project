@@ -1,5 +1,5 @@
 import { todoProps } from "@/types";
-import Form from "../input/form/Form"
+import Form from "../form/Form"
 import Input from "../input/Input"
 import * as actions from "@/actions";
 import { FaCheck } from "react-icons/fa";

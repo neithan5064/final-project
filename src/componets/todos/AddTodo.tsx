@@ -2,7 +2,7 @@ import * as actions from "@/actions";
 
 import Input from "../input/Input";
 import Button from "../button/Button";
-import Form from "../input/form/Form";
+import Form from "../form/Form";
 
 
 
